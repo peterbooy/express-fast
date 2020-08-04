@@ -1,0 +1,49 @@
+{
+  "_from": "express-fast",
+  "_id": "express-fast@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-mz5p6zp6oifiTlXs0VNTt79MA/A=",
+  "_location": "/express-fast",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "express-fast",
+    "name": "express-fast",
+    "escapedName": "express-fast",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/express-fast/download/express-fast-1.0.2.tgz",
+  "_shasum": "9b3e69eb3a7aa227e24e55ecd15353b7bf4c03f0",
+  "_spec": "express-fast",
+  "_where": "F:\\hello-express-fast",
+  "author": {
+    "name": "peby"
+  },
+  "bin": {
+    "peby-start": "./bin/start.js"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1"
+  },
+  "deprecated": false,
+  "description": "快速的查看编译完后的包,不需要部署其他任何操作",
+  "name": "express-fast",
+  "private": false,
+  "scripts": {
+    "start": "./bin/www"
+  },
+  "version": "1.0.2"
+}
