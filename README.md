@@ -13,5 +13,4 @@
 
 ```
 
-[github : ]( https://github.com/peterbooy/express-fast )
-
+[github :]( https://github.com/peterbooy/express-fast ) https://github.com/peterbooy/express-fast 
